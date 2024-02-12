@@ -1,0 +1,14 @@
+C:\Projetos\Projeto Alura\bin\Debug\net8.0\Projeto Alura.exe
+C:\Projetos\Projeto Alura\bin\Debug\net8.0\Projeto Alura.deps.json
+C:\Projetos\Projeto Alura\bin\Debug\net8.0\Projeto Alura.runtimeconfig.json
+C:\Projetos\Projeto Alura\bin\Debug\net8.0\Projeto Alura.dll
+C:\Projetos\Projeto Alura\bin\Debug\net8.0\Projeto Alura.pdb
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.AssemblyInfoInputs.cache
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.AssemblyInfo.cs
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.dll
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\refint\Projeto Alura.dll
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.pdb
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\Projeto Alura.genruntimeconfig.cache
+C:\Projetos\Projeto Alura\obj\Debug\net8.0\ref\Projeto Alura.dll
